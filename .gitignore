@@ -47,3 +47,55 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.Python
+
+# Data files (too large for git)
+*.rds
+*.h5ad
+*.h5
+*.hdf5
+*.csv
+*.tsv
+*.gz
+*.fastq
+*.bam
+*.sam
+
+# Allow these specific txt files
+!requirements.txt
+!*.md
+
+# Except example data
+!data/example_data/*.rds
+!data/example_data/*.csv
+!outputs/example_outputs/*
+
+# System files
+.DS_Store
+Thumbs.db
+._.DS_Store
+
+# Large output files
+outputs/*.pdf
+outputs/*.png
+outputs/*.tiff
+outputs/*.jpeg
+
+# Temporary files
+*.tmp
+*.log
+*~
