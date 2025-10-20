@@ -4,8 +4,10 @@
 [![GEO](https://img.shields.io/badge/GEO-GSE######-orange)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE######)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Authors:** Ateeq Khaliq.
-**Institution:** Indiana University school of Medicine.
+**Authors:** Ateeq Khaliq
+
+**Institution:** Indiana University school of Medicine
+
 **Correspondence:** akhaliq@iu.edu.
 
 ---
